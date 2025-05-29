@@ -1,0 +1,6 @@
+<?php
+
+$str = $str ?? "Empty";
+?>
+<p><?= $str ?></p>
+

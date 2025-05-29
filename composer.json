@@ -1,0 +1,19 @@
+{
+    "require": {
+        "yiisoft/yii2": "^2.0.47"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "scripts": {
+        "test": [
+            "php ./src/install.php"
+        ],
+        "pre-autoload-dump": [
+            "php ./src/install.php"
+        ]
+    }
+}
