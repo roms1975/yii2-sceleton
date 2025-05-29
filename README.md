@@ -1,4 +1,4 @@
 # yii2-sceleton
-Sceleton to yii2 project.  
+Yii2 project sceleton.  
 To start server do this command:  
-##php vendor/bin/yii serve --docroot=./web##
+## php vendor/bin/yii serve --docroot=./web ##
