@@ -1,4 +1,14 @@
 {
+    "name": "roms1975/yii2-sceleton",
+    "description": "Шаблон для yii2 приложения",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "roms1975",
+            "email": "odggbo@gmail.com"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "^2.0.47"
     },
